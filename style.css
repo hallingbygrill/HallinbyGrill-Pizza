@@ -11,7 +11,7 @@
 }
 
 #first{
-    background-image: url("/Images/home.png");
+    background-image: url("/Images/home.jpg");
     background-repeat: no-repeat;
     height: 895px;
     width: 102%;
@@ -47,6 +47,7 @@
     text-align: center;
 }
 
+
 .second{
     height:850px;
 }
@@ -71,6 +72,7 @@
  
 }
 
+
 .third{
     background-image: url("/Images/menu-pizza-pasta-vegetables.jpg");
     background-repeat: no-repeat;
@@ -78,9 +80,6 @@
     height: 800px;
     
 }
-
-
-
 
 .third h6{
     color: aliceblue;
@@ -93,8 +92,6 @@
     text-align:center;
     
 }
-
-
 
 
 .fourth{
