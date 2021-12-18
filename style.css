@@ -1,0 +1,198 @@
+
+.nav{
+    background-color: rgb(56, 55, 55);
+    
+}
+
+.nav-link{
+    color: white;
+    font-size: 17px;
+     
+}
+
+#first{
+    background-image: url("/Images/home.png");
+    background-repeat: no-repeat;
+    height: 895px;
+    width: 102%;
+    
+   
+}
+
+#first h1{
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 90px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+        
+
+#first h3{
+    margin-top:18%;
+    margin-bottom: -25px;
+    color:white;
+    font-family: cookie, cursive;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+#first p{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.second{
+    height:850px;
+}
+.about{
+    text-align: center;
+    height: auto;
+    
+}
+
+.about h3{
+    background-color: rgb(56, 55, 55);
+    color: white;
+    text-align: center;
+    margin-bottom: 150px;
+    border-style:inset;
+
+}
+
+.about p{
+    margin-top: 40px;
+    
+ 
+}
+
+.third{
+    background-image: url("/Images/menu-pizza-pasta-vegetables.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 800px;
+    
+}
+
+
+
+
+.third h6{
+    color: aliceblue;
+    margin: 350px 0px 0px 0px;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:normal;
+    font-weight: 200;
+    font-stretch:wider;
+    text-align:center;
+    
+}
+
+
+
+
+.fourth{
+    height: 550px;
+}
+.contact{
+    text-align: center;
+    height: auto;
+
+}
+
+.contact h2{
+
+    color:rgb(32, 31, 31);
+    margin-top: 80px;
+    text-align: center;
+    margin-bottom: 80px;
+    letter-spacing: 4.64px;
+    font-weight: bold;
+    overflow-wrap: break-word;
+    font-family:cursive;
+    font-size: 40px;;
+
+}
+
+.contact p{
+
+    color:rgb(32, 31, 31);
+    text-align: center;
+    letter-spacing: 3px;
+    font-weight:400;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;;
+
+}
+
+
+.social{
+    margin: 90px;;
+}
+.social a{
+    
+    border-style:solid;
+    padding: 10px;
+    color:rgb(20, 20, 20);
+    text-align: center;
+    margin-bottom: 80px;
+
+}
+
+
+.fifth{
+    height: 400px;
+}
+
+.location{
+    text-align: center;
+    height: auto;
+
+}
+
+.location h2{
+
+    color:rgb(32, 31, 31);
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+    letter-spacing: 4px;
+    overflow-wrap: break-word;
+    font-family:fantasy;
+    font-size: 50px;
+
+}
+
+.address p{
+    font-size: 17px;
+    font-style: italic;
+    margin: 1px;
+    font-weight: 500;
+    
+}
+
+.open p{
+    font-size: 17px;
+    font-style: italic;
+    margin: 1px;
+    font-weight: 500;
+}
+
+
+.footer{
+    background-color: rgb(51, 49, 49);
+	color: rgba(240, 246, 250, 0.97);
+	text-align: center;
+    height: 30px;
+}
+
+.footer p {
+    padding: 3px;
+}
+
