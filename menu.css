@@ -12,7 +12,7 @@ hr{
 }
 
 .meny-img{
-    background-image: url("/Images/home.png");
+    background-image: url("https://raw.githubusercontent.com/hallingbygrill/HallinbyGrill-Pizza/master/Images/home.jpg");
     background-repeat: no-repeat;
     background-position: center;
     height: 300px;
