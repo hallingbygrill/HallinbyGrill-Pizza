@@ -74,7 +74,7 @@
 
 
 .third{
-    background-image: url("/Images/menu-pizza-pasta-vegetables.jpg");
+    background-image: url("https://raw.githubusercontent.com/hallingbygrill/HallinbyGrill-Pizza/master/Images/menu-pizza-pasta-vegetables.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: 800px;
